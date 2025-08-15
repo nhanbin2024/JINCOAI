@@ -1,7 +1,7 @@
 
 # ChainOpera AI – Q&A Agent (Node.js)
 
-Agent hỏi–đáp dựa trên nội dung **ChainOpera AI White Paper / Roadmap** (RAG tối giản).  
+Content-based Q&A Agent **ChainOpera AI White Paper / Roadmap** (Minimalist RAG).  
 Tính năng:
 - Ingest nội dung roadmap thành **embeddings** (OpenAI) và lưu **kb/index.json**.
 - API `POST /agent/ask` trả lời câu hỏi bằng tiếng Việt, trích xuất ngữ cảnh liên quan.
